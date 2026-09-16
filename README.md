@@ -9,7 +9,7 @@ Welcome to my DSA (Data Structures and Algorithms) interview assignment reposito
 *   **Name:** Amit Pandey
 *   **Course & Batch:** MCA, Batch 2026-27 (1st Sem)
 *   **Section:** Section 2
-*   **Role:** Class CR (Class Representative)
+
 
 ### 📞 Contact Information
 If you have any questions or need to reach out regarding the evaluation, feel free to contact me:
